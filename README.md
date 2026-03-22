@@ -67,4 +67,3 @@ thats it. seriously.
 ## disclaimer
 please do not use this for malicious purposes. using it in public servers is risky and you will likely get banned. this was made for fun / private use only. be smart about it.
 provided as-is, no warranty whatsoever. if you get banned, kicked, or your pc catches fire thats on you. use at your own risk. do whatever you want with it, just dont sell it or add malware to it lol
-```
