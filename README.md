@@ -16,7 +16,7 @@ no. i get why it looks sketchy though. heres why it isnt:
 - `forsaken_autogen.py` has the full source code, you can read every single line before running anything
 - if you know python you can just run that directly and skip the exe entirely
 - the exe is literally just the python script compiled into a standalone file so people dont have to install python themselves
-- you can verify the exe yourself at [virustotal.com](https://www.virustotal.com) — pyinstaller exes sometimes get 1-2 false positives from paranoid scanners, thats a known pyinstaller thing not malware
+- you can verify the exe yourself at [virustotal.com](https://www.virustotal.com) - pyinstaller exes sometimes get 1-2 false positives from paranoid scanners, thats a known pyinstaller thing not malware
 
 if you still dont trust it, use the PY version. thats literally why its there.
 
@@ -31,7 +31,7 @@ if you still dont trust it, use the PY version. thats literally why its there.
 
 ---
 
-## setup — exe version
+## setup - exe version
 
 **1.** download `forsaken_autogen.exe` from the [releases page](../../releases/latest)
 
@@ -52,7 +52,7 @@ install-interception.exe /install
 
 ---
 
-## setup — PY version
+## setup - PY version
 
 **1.** install python if you havent: https://python.org
 
@@ -74,7 +74,7 @@ python forsaken_autogen.py
 
 1. open the game and stand in front of a generator puzzle
 2. press `F1` to open the grid draw overlay
-3. click and drag over **the dark greyish cells only** — not the white border around them and not the pure black gaps. the playfield itself is a slightly greyish dark, sooo draw on that ye
+3. click and drag over **the dark greyish cells only** - not the white border around them and not the pure black gaps. the playfield itself is a slightly greyish dark, sooo draw on that ye
 4. press `F3` to solve it
 
 thats it
@@ -87,9 +87,9 @@ thats it
 | `F3` | starts the solver |
 | `F4` | tests the mouse drag so you can check its working |
 | `F5` | prints color detection debug info to console |
-| `F6` | runs path trace analysis — visualizes the solve without touching your mouse |
+| `F6` | runs path trace analysis - visualizes the solve without touching your mouse |
 
-> any key that isnt F1–F6 will abort the solver and close the visualizer mid-run
+> any key that isnt F1-F6 will abort the solver and close the visualizer mid-run
 
 ### settings
 
